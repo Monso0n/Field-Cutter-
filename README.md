@@ -8,7 +8,7 @@
 
 # How to compile using GCC
 
-## To compile in a Linux shell using GCC, use the following command: `gcc cut.c cutFunction.c -o cutField`
+## To compile in a Linux shell using GCC, use the following command: `gcc cut.c cut_functions.c -o cutField`
 
 
   
